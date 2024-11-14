@@ -94,9 +94,9 @@ Below are the screenshots from the **AWS Console** proving the deployment of the
 
 Check out the following tutorials for step-by-step guidance on how to deploy this Terraform configuration:
 
-- [Tutorial 1: Terraform Basics](<TUTORIAL_LINK_1>)
-- [Tutorial 2: Deploying Infrastructure with Terraform](<TUTORIAL_LINK_2>)
-- [Tutorial 3: AWS Setup and Configuration](<TUTORIAL_LINK_3>)
+- [Beginners Tutorial to Terraform with AWS](https://www.youtube.com/watch?v=XxTcw7UTues)
+- [Learn Terraform (and AWS) - Full Course for Beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=iRaai1IBlB0)
+- [Longer, More in-depth Project Tutorial](https://www.youtube.com/playlist?list=PL184oVW5ERMCirZu6wRL2NmUENHixB4mt)
 
 ---
 
