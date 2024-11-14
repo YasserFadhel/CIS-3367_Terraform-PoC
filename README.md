@@ -74,19 +74,19 @@ Below are the screenshots from the **AWS Console** proving the deployment of the
 
 ### **VPC**
 
-![VPC Screenshot](<VPC_IMAGE_URL>)
+![VPC Screenshot](<images\VPC Resource Map.png>)
 
 ### **EC2 Instance (Web Server)**
 
-![EC2 Screenshot](<EC2_IMAGE_URL>)
+![EC2 Screenshot](<images\EC2 Panel.png>)
 
 ### **S3 Bucket**
 
-![S3 Screenshot](<S3_IMAGE_URL>)
+![S3 Screenshot](<images\S3 Panel.png>)
 
 ### **RDS Instance**
 
-![RDS Screenshot](<RDS_IMAGE_URL>)
+![RDS Screenshot](<images\RDS Panel.png>)
 
 ---
 
